@@ -1,0 +1,3 @@
+[submodule "api/auth"]
+	path = api/auth
+	url = https://github.com/MultikPatin/EFS_auth
