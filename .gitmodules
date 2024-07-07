@@ -1,3 +1,6 @@
 [submodule "service_content"]
-	path = api/content_delivery
+	path = api/content
 	url = https://github.com/MultikPatin/EFS_content_delivery
+[submodule "api/EFS_auth"]
+	path = api/auth
+	url = https://github.com/MultikPatin/EFS_auth
